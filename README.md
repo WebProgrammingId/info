@@ -10,10 +10,10 @@
 
 ### Hastag yang tersedia :
 
-- `#Ebook` + `#NamaEbooknya`, Sebagai Contoh : `#Ebook` `#php`
-- `#Ask`, Tag Untuk Bertanya
+- Jika ingin membagikan ebook gunakan tag `#Ebook` + `#NamaEbooknya`, Sebagai Contoh : `#Ebook` `#php`
+- Gunakan Tag `#Ask` Untuk Bertanya
 - `#TopikYangDiBahas`, Tag ini digunakan ketika membahas sesuatu
-- `#Lowongan`, Untuk lowongan pekerjaan tentang web dev 
+- Gunakana Tag `#Lowongan` Untuk lowongan pekerjaan tentang web dev  
 
 _Coming soon_
 
@@ -22,7 +22,7 @@ _Coming soon_
 ## Rules
 
 ### - ~_TIDAK SPAM STICKER dan PROMOSI APAPUN_~
-### - ~Sopan~
+### - _Sopan_
 ### - ~_Tidak OOT_~
 ### - ~_No Share Porn_~
 ### - ~_No Share Phising_~
