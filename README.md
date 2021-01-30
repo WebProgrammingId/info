@@ -22,7 +22,7 @@ _Coming soon_
 ## Rules
 
 ### - ~_TIDAK SPAM STICKER dan PROMOSI APAPUN_~
-### - ~_Sopan_~
+### - ~Sopan~
 ### - ~_Tidak OOT_~
 ### - ~_No Share Porn_~
 ### - ~_No Share Phising_~
