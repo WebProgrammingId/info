@@ -2,7 +2,7 @@
 
 ## Tentang Group
 
-### `Forum para web programmer, baik front end, back end, maupun fullstack`
+### Forum para web programmer, baik `front end`, `back end`, maupun `fullstack`
 
 <br>
 
@@ -10,10 +10,10 @@
 
 ### Hastag yang tersedia :
 
-- #Ebook + #NamaEbooknya, Sebagai Contoh : #Ebook #php
-- #Ask, Tag Untuk Bertanya
-- #TopikYangDiBahas, Tag ini digunakan ketika membahas sesuatu
-- #Lowongan, Untuk lowongan pekerjaan tentang web dev 
+- `#Ebook` + `#NamaEbooknya`, Sebagai Contoh : `#Ebook` `#php`
+- `#Ask`, Tag Untuk Bertanya
+- `#TopikYangDiBahas`, Tag ini digunakan ketika membahas sesuatu
+- `#Lowongan`, Untuk lowongan pekerjaan tentang web dev 
 
 _Coming soon_
 
