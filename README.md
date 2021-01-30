@@ -4,9 +4,11 @@
 
 ### `Forum para web programmer, baik front end, back end, maupun fullstack`
 
-### `Jika ingin mengirim pesan gunakan hastag :`
+<br>
 
-## Hastag yang tersedia :
+## Jika ingin mengirim pesan harap gunakan hastag :
+
+### Hastag yang tersedia :
 
 - #Ebook + #NamaEbooknya, Sebagai Contoh : #Ebook #php
 - #Ask, Tag Untuk Bertanya
