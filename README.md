@@ -31,6 +31,8 @@
 
 ### [Link Group Whatsapp](https://bit.ly/3clUeFV)
 
+### [Link Discord](https://discord.gg/g5ffeyAHQx)
+
 ### [Panduan Tatakrama / Etika ketika bertanya dan Menjawab](https://pastebin.com/n6vcH3eD)
 
 ### [Catatan Tambahan dari admin](https://pastebin.com/1qFJPzn4)
